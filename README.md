@@ -1,8 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=kddmmm's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header]("C:\Users\1-03\Downloads\header1.png")
+
 </div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> KDM's Git </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 항상 성장을 위해 노력합니다.</li>인프라 엔지니어가 되고 싶습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 항상 성장을 위해 노력합니다. 인프라 엔지니어가 되고 싶습니다. </div> 
+     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 항상 성장을 위해 노력합니다. 인프라 엔지니어가 되고 싶습니다. </div> 
+      <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 항상 성장을 위해 노력합니다. 인프라 엔지니어가 되고 싶습니다. </div> 
     </div>
+    <div style="display: flex; justify-content: space-between; align-items: center;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="200" height="100" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="200" height="100" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="200" height="100" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="200" height="100" /></div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
