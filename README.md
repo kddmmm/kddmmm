@@ -34,10 +34,10 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-## 👨‍💻 안녕하세요!! 저는 **스스로 끊임없이 배우고 성장하는** 백엔드 개발자 Gill입니다 👨‍💻  
+## 👨‍💻 안녕하세요!! 저는 **스스로 끊임없이 배우고 성장하는** 백엔드 개발자 김동민입니다 👨‍💻  
 💼 현재 학습 중인 기술: **Spring Boot**, **RESTful API**, **Database Optimization** 
 💡 **Spring Boot와 RESTful API**로 견고한 서버를 구축하는 것을 즐기며  
-🌱 **클라우드 컴퓨팅과 마이크로서비스**로 한 걸음 더 나아가고자 합니다  
+🌱 **클라우드 컴퓨팅**으로 한 걸음 더 나아가고자 합니다  
 ⚡ **코드 리팩토링**을 통해 더 나은 코드를 추구하고 트러블 슈팅을 좋아하는 개발자입니다   
 📫 ehdals5387@naver.com
 
