@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=JJINUENG's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=200&text=kddmmm's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 </div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> KDM's Git </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 항상 성장을 위해 노력합니다.</li>인프라 엔지니어가 되고 싶습니다. </div> 
