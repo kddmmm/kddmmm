@@ -1,4 +1,4 @@
-<img width="1909" height="637" alt="Image" src="https://github.com/user-attachments/assets/84062a7a-60e7-4b04-91e8-b76db7023558" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=ECECEC&height=100&section=header&text=Dongmin%20Kim&fontSize=60)
 
 <br>
 
