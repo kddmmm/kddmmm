@@ -29,16 +29,26 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<!--
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+-->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </p>
 
-## 👨‍💻 저는 **스스로 끊임없이 배우고 성장하는** 데브옵스 엔지니어를 꿈꾸는 김동민입니다 👨‍💻  
-💼 현재 학습 중인 기술: **Spring Boot**, **RESTful API**, **Database Optimization** 
-🌱 **클라우드 컴퓨팅**으로 한 걸음 더 나아가고자 합니다  
-⚡ **코드 리팩토링**을 통해 더 나은 코드를 추구하고 트러블 슈팅을 좋아하는 개발자입니다   
-📫 ehdals5387@naver.com
+<br>
+
+## 🚩 Projects
+| Title | Stack | Period | Organization / Course | Links |
+| :-- | :--: | :--: | :-- | :-- |
+| 🧮 자판기 회로 설계 **LogicWork Vending Machine** | LogicWorks | 2023.10 ~ 2023.12 | 컴퓨터구성 팀 프로젝트 | [GitHub](https://github.com/) |
+| 📚 나만의 기억집 **조각집** | JavaScript | 2024.08 ~ 2024.09 | 코드잇 토이 프로젝트 | [GitHub](https://github.com/kddmmm/JoGakZip) |
+| 🧵 리눅스 기반 셸 및 명령어 구현 **OS_Term_Project** | C, Bash | 2024.05 ~ 2024.07 | 운영체제 팀 프로젝트 | [GitHub](https://github.com/kddmmm/OS_Term_Project) |
+| 🍞 이중 부호화를 활용한 메모 토스트 **Toast-it** | JavaScript | 2024.12 ~ 2025.02 | 코드잇 최종 프로젝트 | [Frontend](https://github.com/Codeit-ToastIT/FE_main) [Backend](https://github.com/kddmmm/Toast-it-BE) |
+| 🧠 스마트 거울을 활용한 뇌졸중 예측 시스템 **Stroke Detectior** | Python, ML | 2025.03 ~ 2025.06 | 캡스톤디자인 | [GitHub](https://github.com/kddmmm/-BE-Stroke-Detection) |
+| 👓 시력+MBTI 기반 자리 배치 시스템 **VisionSeat** | Java | 2025.07 ~ 진행중 | 개인 프로젝트 | [GitHub](https://github.com/moonstone0514/miniProject) |
+
+<br>
 
 ## 📊 GitHub 통계
 
@@ -69,27 +79,3 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Gill010147&color=blueviolet)
 
 </div>
-
----
-
-<div align="center">
-  
-**"코드는 시를 쓰는 것과 같다. 간결하고 아름다워야 한다."** ✨
-
-</div>
-
-
-<!--
-**Gill010147/Gill010147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning ...
-- 👯 I'm looking to collaborate on ...
-- 🤔 I'm looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
