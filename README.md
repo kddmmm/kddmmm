@@ -66,18 +66,26 @@
 </div>
 
 <div align="center">
+  
   <img src="https://streak-stats.demolab.com/?user=kddmmm&theme=tokyonight" alt="GitHub Streak" />
+  
 </div>
 
 ## 📫 연락처
 
 <div align="right">
-
+  
+<!--
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/)
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@)
+-->
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:ehdals5387@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kddmmm_)
+
+<!--
 [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/yourusername)
+-->
 
 </div>
 
