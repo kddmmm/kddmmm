@@ -50,6 +50,14 @@
 
 <br>
 
+## 🏆 Certifications
+
+- **SQLD**
+- **정보처리기사**
+- **Azure AZ-900**
+- **IPAT 3급**
+- **AWS Certified Solutions Architect – Associate**
+
 ## 📊 GitHub 통계
 
 <div align="center">
