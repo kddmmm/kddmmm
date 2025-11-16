@@ -55,7 +55,6 @@
 - **SQLD**
 - **정보처리기사**
 - **Azure AZ-900**
-- **IPAT 3급**
 - **AWS Certified Solutions Architect – Associate**
 
 ## 📊 GitHub 통계
@@ -92,6 +91,6 @@
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=Gill010147&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=kddmmm&color=blueviolet)
 
 </div>
