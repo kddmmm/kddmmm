@@ -60,8 +60,8 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kddmmm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kddmmm&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kddmmm&show_icons=true&theme=tokyonight" alt="Git Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kddmmm&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
